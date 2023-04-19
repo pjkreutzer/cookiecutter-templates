@@ -1,0 +1,10 @@
+{
+    "course_code": "course_code",
+    "course_name": "course_name",
+    "author": "Jonas Kreutzer",
+    "contact": "philipp_jonas.kreutzer@ekh.lu.se",
+    "location": "location",
+    "term": "term",
+    "level": "level",
+    "course_code_website": "{{cookiecutter.teaching + '_website'}}"
+}
