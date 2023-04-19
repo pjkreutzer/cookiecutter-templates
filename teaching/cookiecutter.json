@@ -6,5 +6,5 @@
     "location": "location",
     "term": "term",
     "level": "level",
-    "course_code_website": "{{cookiecutter.teaching + '_website'}}"
+    "course_code_website": "{{cookiecutter.course_code + '_website'}}"
 }
