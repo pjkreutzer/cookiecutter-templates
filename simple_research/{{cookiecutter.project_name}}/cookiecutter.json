@@ -1,0 +1,8 @@
+{
+    "project_name": "Short Project Name",
+    "project_slug": "{{ cookiecutter.project_name.lower().strip().replace(' ', '_') }}",
+    "author": "First Last",
+    "contact": "first.last@institute.edu",
+    "abstract": "Write your abstract here",
+    "repo_description": "Write your repo description here",
+}
