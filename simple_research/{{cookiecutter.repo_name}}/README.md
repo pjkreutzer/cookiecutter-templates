@@ -6,7 +6,8 @@
 
 # Abstract
 
-> {{cookiecutter.abstract}}
+> |
+{{cookiecutter.abstract}}
 
 ## Description of this repo {{cookiecutter.repo_name}}
 
