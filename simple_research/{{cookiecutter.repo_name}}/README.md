@@ -1,4 +1,4 @@
-# Repo for {{project_name}}
+# {{cookiecutter.project_name}}
 
 ## Authors
 
@@ -8,7 +8,7 @@
 
 > {{cookiecutter.abstract}}
 
-# Repo of {{cookiecutter.project_name}}
+## Description of this repo {{cookiecutter.repo_name}}
 
 {{cookiecutter.repo_description}}
 
